@@ -1,7 +1,7 @@
 # Challenge HCXpert with Cypress
 
 ### Descrição
-Esse repositório contém testes automatizados focando na funcionalidades básicas do website [my shop](https://www.automationexercise.com/). Utilizando a linguagem TypeScript para interagir com o navegador. 
+Esse repositório contém testes automatizados focando na funcionalidades básicas do website [my shop](https://www.automationexercise.com/). Utilizando a linguagem JavaScript para interagir com o navegador. 
 
 ### Principais funcionalidades 
 
